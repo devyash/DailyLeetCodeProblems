@@ -9,3 +9,6 @@ Installation Steps:
 4. update the `dev.ini` file with asked value(for cookies you will need to look at the comments in generate_list.py`
 5. copy the jsons in parsed_question_list folder
 6. run `python main.py` in the send_email folder
+
+
+Sample Email:
