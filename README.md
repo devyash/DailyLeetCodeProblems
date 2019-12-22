@@ -12,3 +12,6 @@ Installation Steps:
 
 
 Sample Email:
+![SAMPLE PROBLEM](https://github.com/devyash/DailyLeetCodeProblems/blob/master/images/1.PNG)
+![SAMPLE PROBLEM](https://github.com/devyash/DailyLeetCodeProblems/blob/master/images/2.PNG)
+![SAMPLE PROBLEM](https://github.com/devyash/DailyLeetCodeProblems/blob/master/images/3.PNG)
