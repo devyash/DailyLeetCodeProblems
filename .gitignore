@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+dev.ini
+parsed_questions_list/*.json
+parse_leetcode/*.json
